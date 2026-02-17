@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://hwptorag.com">Website</a> ·
-  <a href="https://hwptorag.com/docs/getting-started">Docs</a> ·
-  <a href="https://hwptorag.com/pricing">Pricing</a>
+  <a href="https://hwptorag.site">Website</a> ·
+  <a href="https://hwptorag.site/docs/getting-started">Docs</a> ·
+  <a href="https://hwptorag.site/pricing">Pricing</a>
 </p>
 
 ---
