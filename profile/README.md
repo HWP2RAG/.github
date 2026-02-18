@@ -55,8 +55,7 @@ print(result.content)
 | 계층 | 기술 |
 |------|------|
 | Frontend | Next.js · React · shadcn/ui |
-| Backend API | FastAPI · Python |
-| Parsing Engine | hwp-rs (Rust) · WASM |
+| Backend API | TBD |
 | Storage | Cloudflare R2 / AWS S3 |
 | SDK | Python (PyPI) |
 
